@@ -8,6 +8,7 @@ Entrega de projeto como pré requisito para conclusão de módulo
 
 [![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=007BFF)](mailto:SEUEMAIL)
 
+[![X](https://img.shields.io/badge/X-000?style=for-the-badge&logo=x)](https://x.com/SEUUSERNAME)
 
 ## Habilidades
 
